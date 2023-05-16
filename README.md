@@ -5,4 +5,5 @@
 Technologies: HTML / CSS / SCSS / JS
 
 [PROJECT DEMO LINK](https://yevheniihura.github.io/2048-game/)
+
 [CODE DEMO LINK](https://github.com/YevheniiHura/2048-game)
